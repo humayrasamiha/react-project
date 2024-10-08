@@ -1,7 +1,7 @@
-const cardImg1 = '/public/assets/images/card/cardImg1.jpg';
-const cardImg2 = '/public/assets/images/card/cardImg2.jpg';
-const cardImg4 = '/public/assets/images/card/cardImg4.jpg';
-const cardImg5 = '/public/assets/images/card/cardImg5.jpg';
+const cardImg1 = '/assets/images/card/cardImg1.jpg';
+const cardImg2 = '/assets/images/card/cardImg2.jpg';
+const cardImg4 = '/assets/images/card/cardImg4.jpg';
+const cardImg5 = '/assets/images/card/cardImg5.jpg';
 
 const CardData = [
     {

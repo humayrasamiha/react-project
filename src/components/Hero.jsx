@@ -2,7 +2,7 @@ import HeroDotSvg from "../IconComponents/HeroDotSvg";
 
 export default function Hero(){
 
-    const heroImg = '/public/assets/images/hero/hero-image.png';
+    const heroImg = '/assets/images/hero/hero-image.png';
     const description = 'Hero';
 
     return (

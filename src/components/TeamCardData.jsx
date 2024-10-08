@@ -1,7 +1,7 @@
-const team1 = '/public/assets/images/team/team-01.png';
-const team2 = '/public/assets/images/team/team-02.png';
-const team3 = '/public/assets/images/team/team-03.png';
-const team4 = '/public/assets/images/team/team-04.png';
+const team1 = '/assets/images/team/team-01.png';
+const team2 = '/assets/images/team/team-02.png';
+const team3 = '/assets/images/team/team-03.png';
+const team4 = '/assets/images/team/team-04.png';
 
 
 const TeamCardData = [
